@@ -1,0 +1,16 @@
+{
+    "id": "{E806E7B6-183C-E44B-9EFF-0A2D48E13392}",
+    "name": "Alarm System",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "Gefahrenmeldeanlage",
+        "Alarmanlage",
+        "Einbruchmeldeanlage"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "EMA",
+    "url": ""
+}
