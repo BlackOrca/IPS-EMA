@@ -7,6 +7,11 @@ class AlarmSystem extends IPSModule
     {
         //Never delete this line!
         parent::Create();
+
+		$this->RegisterPropertyString('SensorsForFullSet', '[]');
+
+		$this->RegisterVariableBoolean('Active', $this->Translate('Active'), '~Switch', 10);
+		$this->EnableAction('Active');
     }
 
     public function Destroy()
