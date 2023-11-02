@@ -1,5 +1,39 @@
 {
-    "elements": [],
+    "elements": [
+        {
+            "type": "Label",
+            "label": "Select the alarm sensor variables, which activate the alarm in case of a full armed system."
+        },
+        {
+            "type": "List",
+            "name": "SensorsForFullSet",
+            "caption": "Sensorvariables for full armed system",
+            "add": true,
+            "delete": true,
+            "sort": {
+                "column": "ID",
+                "direction": "ascending"
+            },
+            "columns": [
+                {
+                    "name": "ID",
+                    "caption": "Variable",
+                    "width": "auto",
+                    "add": 0,
+                    "edit": {
+                        "type": "SelectVariable"
+                    }
+                },
+                {
+                    "name": "Status",
+                    "label": "Status",
+                    "width": "120",
+                    "add": ""
+                }
+            ],
+            "values": []
+        }
+    ],
     "actions": [],
     "status": []
 }
