@@ -3,7 +3,7 @@
         "de": {
             "Select the alarm sensor variables, which activate the alarm in case of a full armed system.": "Wählen Sie die Alarm Variablen aus, die eine Alarm auslösen wenn das System Extern Scharf geschaltet ist. (Sprich wenn man das Haus verlässt)",
             "Sensorvariables for full armed system": "Sensorvariablen für die Externe Schärfung",
-            "Active": "Aktiv"
+            "Full set": "Extern Scharf"
         }
     }
 }
