@@ -1,4 +1,5 @@
 # Alarm System
+
 Beschreibung des Moduls.
 
 ### Inhaltsverzeichnis
@@ -13,11 +14,11 @@ Beschreibung des Moduls.
 
 ### 1. Funktionsumfang
 
-*
+* Kommt im laufe der Entwicklung :-)
 
 ### 2. Voraussetzungen
 
-- IP-Symcon ab Version 6.4
+* IP-Symcon ab Version 6.4
 
 ### 3. Software-Installation
 
@@ -26,8 +27,8 @@ Beschreibung des Moduls.
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
- Unter 'Instanz hinzufügen' kann das 'Alarm System'-Modul mithilfe des Schnellfilters gefunden werden.  
-	- Weitere Informationen zum Hinzufügen von Instanzen in der [Dokumentation der Instanzen](https://www.symcon.de/service/dokumentation/konzepte/instanzen/#Instanz_hinzufügen)
+ Unter 'Instanz hinzufügen' kann das 'Alarm System'-Modul mithilfe des Schnellfilters gefunden werden.
+ - Weitere Informationen zum Hinzufügen von Instanzen in der [Dokumentation der Instanzen](https://www.symcon.de/service/dokumentation/konzepte/instanzen/#Instanz_hinzufügen)
 
 __Konfigurationsseite__:
 
